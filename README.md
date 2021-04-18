@@ -12,4 +12,4 @@ The main of the couter is to practice different key concepts.
 - **classList**
 - **textContent**
 
-My vision is to get godd bacics in order to continue improving to get better at coding.
+My vision is to get good basics practices and knowledge in order to continue improving to get better at coding.
